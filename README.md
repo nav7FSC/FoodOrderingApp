@@ -61,10 +61,9 @@ Welcome to the Food Ordering App, a simple Java Swing application that allows us
 4. **View Cart:** Review your selected items and the total amount.
 5. **Place Order:** Enter your delivery information and submit your order.
 
-## Acknowledgments
+## Author
 
-- **Nav Singh** - Developer of the Food Ordering App
+[nav7FSC on GitHub](https://github.com/nav7FSC)
 
----
 
 Enjoy your meal!
